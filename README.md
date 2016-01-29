@@ -1,18 +1,18 @@
 # perl6-poetry
 
-Perl 6 code that generates poetry using.
+Perl 6 code that generates poetry.
 
 Code output:
 
- Ending Night with stars
- Vastness Greatness Eternity
- Milky way Going Away
- Last Glowing star Ray
- Face with tears of joy
- Beating heart Sunrise over mountains
- Morning Sun behind cloud Chains
- Dreamy Slowly Leaf fluttering in wind Vibration
- Sweet Life Poetic Contemplation
+  Ending Night with stars<br>
+  Vastness Greatness Eternity<br> 
+  Milky way Going Away<br>
+  Last Glowing star Ray<br>
+  Face with tears of joy<br>
+  Beating heart Sunrise over mountains<br>
+  Morning Sun behind cloud Chains<br>
+  Dreamy Slowly Leaf fluttering in wind Vibration<br>
+  Sweet Life Poetic Contemplation<br>
 
 
 How does it work?
